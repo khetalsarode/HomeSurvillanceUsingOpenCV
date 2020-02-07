@@ -4,10 +4,8 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 mail_content = '''Hello,
-This is a test mail.
-In this mail we are sending some attachments.
-The mail is sent using Python SMTP library.
-Thank You
+This mail from your home someone trying to enter your home.
+please check photo.
 '''
 #The mail addresses and password
 def start():
